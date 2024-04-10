@@ -1,0 +1,53 @@
+{
+  "Products": [
+    {
+      "id": "1002",
+      "name": "TV",
+      "price": 9000,
+      "img_url": "/image/TV.jpg"
+    },
+    {
+      "id": "110",
+      "name": "radio",
+      "price": "554",
+      "img_url": "\"/image/radio.jpg\""
+    },
+    {
+      "id": "343",
+      "name": "Laptop",
+      "price": "55500",
+      "img_url": "/image/laptop1.jpg"
+    },
+    {
+      "id": "1006",
+      "name": "iphone",
+      "price": "100000",
+      "img_url": "/image/Iphone.jpg"
+    },
+    {
+      "id": "1007",
+      "name": "mouse",
+      "price": "344",
+      "img_url": "/image/laptop1.jpg"
+    },
+    {
+      "id": "555",
+      "name": "4k TV",
+      "price": "550000",
+      "img_url": "/image/TV.jpg"
+    }
+  ],
+  "Users": [
+    {
+      "id": "2001",
+      "emailId": "ab@gmail.com",
+      "password": "ab123"
+    },
+    {
+      "id": "6cb8",
+      "name": "ARJUN",
+      "email": "ARJUN@GMAIL.COM",
+      "password": "12345"
+    }
+  ]
+}
