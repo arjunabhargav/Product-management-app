@@ -1,0 +1,21 @@
+.user-dashboard {
+    text-align: center;
+  }
+  
+  .dashboard-title {
+    margin-top: 20px; /* Adjust margin top as needed */
+  }
+  
+  .cart-toggle {
+    margin-bottom: 20px; /* Adjust margin bottom as needed */
+  }
+  
+  .cart-container {
+    margin-top: 20px; /* Adjust margin top as needed */
+  }
+  
+  .products-container {
+    margin: 0 auto; /* Center align */
+    max-width: 800px; /* Adjust max-width as needed */
+  }
+  
